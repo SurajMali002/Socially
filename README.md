@@ -1,5 +1,5 @@
 # The Socially Project
-My name is Sanat Gupta and welcome to the The Socially Project(T.S.P),this project was made by me for CSIR Innovation Award for School Children 2021 Socially is an open source project and its code is available to everyone.
+My name is Suraj and welcome to the The Socially Project(T.S.P),this project was made by me for CSIR Innovation Award for School Children 2021 Socially is an open source project and its code is available to everyone.
 
 # UI
 The UI is self designed and is user friendly the design is mobile responsive and fast.The base template was taken from creative tim's paper dashboard.
